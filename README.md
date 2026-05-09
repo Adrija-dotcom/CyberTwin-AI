@@ -1,5 +1,4 @@
-# 🛡️ CyberTwin AI
-
+# 🛡️ Cyber AI Dashboard
 > “Predictive AI-Powered Cybersecurity Digital Twin Platform”
 
 CyberTwin AI is an intelligent cybersecurity simulation dashboard that creates a virtual security twin of a user’s digital presence. It predicts cyber risks, visualizes attack propagation, detects phishing/spam threats, and helps users improve their online security posture using AI and machine learning.
